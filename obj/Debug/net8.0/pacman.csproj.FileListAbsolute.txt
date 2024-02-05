@@ -1,0 +1,14 @@
+/Users/Marina/Projects/Csharp/pacman/bin/Debug/net8.0/pacman
+/Users/Marina/Projects/Csharp/pacman/bin/Debug/net8.0/pacman.deps.json
+/Users/Marina/Projects/Csharp/pacman/bin/Debug/net8.0/pacman.runtimeconfig.json
+/Users/Marina/Projects/Csharp/pacman/bin/Debug/net8.0/pacman.dll
+/Users/Marina/Projects/Csharp/pacman/bin/Debug/net8.0/pacman.pdb
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.AssemblyInfoInputs.cache
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.AssemblyInfo.cs
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.csproj.CoreCompileInputs.cache
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.dll
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/refint/pacman.dll
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.pdb
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/pacman.genruntimeconfig.cache
+/Users/Marina/Projects/Csharp/pacman/obj/Debug/net8.0/ref/pacman.dll
